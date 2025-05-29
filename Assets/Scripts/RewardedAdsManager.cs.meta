@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 45e509b43c93d4648aa1c8d94e3f69c2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - watchAdButton: {instanceID: 0}
+  - rewardPopup: {fileID: 938109723193856899, guid: 7f743c918cb23b54f8fd9e99dfccb3f9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
