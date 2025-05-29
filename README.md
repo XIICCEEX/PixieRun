@@ -1,7 +1,6 @@
 # PixieRun
-In Pixie Run, players take on the role of a tiny fairy dashing through enchanting fantasy worlds filled with poisonous mushrooms and mysterious forests. The main objective is to score as high as possible by running continuously, dodging obstacles, and collecting items along the way to boost points.
+Game Concept
+ในเกม Pixie Run ผู้เล่นจะได้รับบทเป็นนางฟ้าตัวน้อยที่ต้องวิ่งผ่านด่านต่าง ๆ ในโลกแฟนตาซีที่เต็มไปด้วยเห็ดพิษและป่าลึกลับ เป้าหมายของเกมคือการทำคะแนนให้ได้สูงที่สุดโดยการวิ่งไปข้างหน้าอย่างต่อเนื่อง หลบหลีกอุปสรรค และเก็บไอเทมระหว่างทางเพื่อเพิ่มคะแนน นอกจากนี้ผู้เล่นสามารถใช้ความสามารถในการกระโดดได้สองจังหวะเพื่อช่วยให้สามารถข้ามอุปสรรคที่ซับซ้อนได้ง่ายขึ้น พร้อมทั้งระบบศัตรูที่ลอยเข้าโจมตีผู้เล่นเพื่อเพิ่มความยากและท้าทายในการเล่น
 
-Players are equipped with a double jump ability, allowing them to overcome complex terrain and evade hazards more easily. As the game progresses, floating enemies appear to attack the player, increasing both the difficulty and the excitement of each run.
 
-Pixie Run offers a fast-paced, magical adventure where timing, agility, and precision are key to surviving and setting new high scores.
 
